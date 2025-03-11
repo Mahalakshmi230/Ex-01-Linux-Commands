@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
 # <h3>Name: Mahalakshmi R</h3>
-# <h3></h3>Reg No: 212223230116</h3>
+# <h3>Reg No: 212223230116</h3>
 ## Aim:
 
 To study the execution of various Linux operating system commands.

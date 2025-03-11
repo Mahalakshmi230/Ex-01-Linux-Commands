@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-
-
+# <h3>Name: Mahalakshmi R</h3>
+# <h3></h3>Reg No: 212223230116</h3>
 ## Aim:
 
 To study the execution of various Linux operating system commands.
@@ -52,6 +52,7 @@ Syntax: rmdir <directory name>
 The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
+
 ![image](https://github.com/user-attachments/assets/20a08b36-115b-4667-ac49-68e0de404d35)
 
 
@@ -91,6 +92,7 @@ Syntax: su <user name>
 The mv command is used to move a file or a directory form one location to another location.
 
 Syntax: mv <file name> <directory path>
+
 ![376898570-3d82da66-f19d-45e7-a7c6-ba051f8ea232](https://github.com/user-attachments/assets/9656a5cd-397d-4fb0-b10f-a73253ab9492)
 
  
@@ -115,6 +117,7 @@ Syntax: head <file name>
 The tail command is similar to the head command. The difference between both commands is that it displays the last ten lines of the file content. It is useful for reading the error message.
 
 Syntax: tail <file name>
+
 ![376898608-8c7c902c-261d-471e-91d8-398d29b68421](https://github.com/user-attachments/assets/d174e3d7-af67-4e7a-90de-a2c52492d4ae)
 
  
@@ -123,6 +126,7 @@ Syntax: tail <file name>
 The id command is used to display the user ID (UID) and group ID (GID).
 
 Syntax: id
+
 ![376898622-2b5505b0-414f-4634-9b24-76cbe180a2f3](https://github.com/user-attachments/assets/5f1aaabc-6ea3-49ec-a9a4-241c3519551b)
 
 
@@ -131,6 +135,7 @@ Syntax: id
 The grep is the most powerful and used filter in a Linux system. The 'grep' stands for "global regular expression print." It is useful for searching the content from a file. Generally, it is used with the pipe.
 
 Syntax: command | grep <search word>
+
 ![376898637-7ac56c1a-1fca-44ce-9a97-ee2f1316bd11](https://github.com/user-attachments/assets/fb534f4e-cdb0-4aec-bd57-6cb984d07b16)
 
 
@@ -139,6 +144,7 @@ Syntax: command | grep <search word>
 The tr command is used to translate the file content like from lower case to upper case.
 
 Syntax: command | tr <'old'> <'new'>
+
 ![376898660-d1b279a2-0289-459a-aa9e-5a1d454593fa](https://github.com/user-attachments/assets/3f883f74-5019-4745-acb3-62f46557c038)
 
 ### 17)	chmod Command
@@ -159,6 +165,7 @@ $ tar xvzf file.tar *.c
 The chown command is used to change ownership.
 
 Syntax: chown owner_name file_name
+
 ![376898688-1918c386-2b27-47a2-93e4-a4da4516d36f](https://github.com/user-attachments/assets/3efd3e26-ff95-40dd-a39a-a90c05a4d78a)
 
 ### 20)	make Command
@@ -166,6 +173,7 @@ Syntax: chown owner_name file_name
 The make command is used for building and maintaining group of program.
 
 Syntax: make [-f makefile][options]…….[targets]….
+
 ![376898709-781d6009-7070-43a6-bd4e-e16f141219b3](https://github.com/user-attachments/assets/379ae429-0af2-410c-801e-f1f4634d7e75)
 
 
@@ -174,6 +182,7 @@ Syntax: make [-f makefile][options]…….[targets]….
 The ifconfig command is used to configure kernel-resident network interface.
 
 Syntax: ifconfig[options][interface]
+
 ![376898727-c947fdcf-d906-4052-bf91-943598478282](https://github.com/user-attachments/assets/b738893c-2e2f-45f5-b274-30173dbe27e1)
 
 ### 22)	chmod 777 Command
@@ -188,6 +197,7 @@ $chmod -R 777 /path/to/file/or/folder
 The host command is used to display the IP address for a given domain name and vice versa. It performs the DNS lookups for the DNS Query.
 
 Syntax: host <domain name> or <ip address>
+
 ![376898751-06913a7c-cd27-4107-a73f-7f1bbfaec252](https://github.com/user-attachments/assets/401a0ac8-2249-4503-a912-b263f8d7ba80)
 
 ### 24)	gzip Command
@@ -195,6 +205,7 @@ Syntax: host <domain name> or <ip address>
 The gzip command is used to truncate the file size. It is a compressing tool. It replaces the original file by the compressed file having '.gz' extension.
 
 Syntax: gzip <file1> <file2> <file3>..
+
 ![376898771-80e66b4c-9dca-4d04-a4dc-209114526baa](https://github.com/user-attachments/assets/19c7a975-60ba-4498-adc2-dcb2487f7cb6)
 
 
@@ -203,6 +214,7 @@ Syntax: gzip <file1> <file2> <file3>..
 The sort command is used to sort files in alphabetical order.
 
 Syntax:sort <file name>
+
 ![376898796-5d14e282-3d91-4930-a0b4-49665be282f4](https://github.com/user-attachments/assets/9f261719-88cc-41bd-8ee4-2b3632eaf687)
 
  
@@ -210,6 +222,7 @@ Syntax:sort <file name>
 
 The cal command is used to display the current month's calendar with the current date highlighted.
 Syntax: cal
+
 ![376898816-17358982-cead-4f94-8cce-3be4605eda32](https://github.com/user-attachments/assets/dbdfa346-2e72-4b13-b19a-f99ede7f2541)
 
 
@@ -218,6 +231,7 @@ Syntax: cal
 Linux clear command is used to clear the terminal screen.
 
 Syntax: clear
+
 ![376898835-e265b0c7-92f8-429c-b66f-ccaaf5396da8](https://github.com/user-attachments/assets/c2578c49-d66d-474f-9f1a-293e8b6310c7)
 
 
@@ -226,6 +240,7 @@ Syntax: clear
 The mail command is used to send emails from the command line.
 "Subject" <recipient address>
 Syntax: mail -s
+
 ![376898860-6799494a-8c39-4956-b781-4a95ec6f1e12](https://github.com/user-attachments/assets/74861741-d7f3-4f4b-b7ad-6f811985f0f3)
 
 ### 29)	df Command
@@ -233,6 +248,7 @@ Syntax: mail -s
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
+
 ![376898891-526f8f4f-0b4d-4017-8c29-94a1cfa230e0](https://github.com/user-attachments/assets/c3832e4d-f02f-4745-a3b3-7c1651adf697)
 
 ### 30)	find Command

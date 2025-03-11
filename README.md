@@ -233,7 +233,7 @@ Syntax: mail -s
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
-![Uploading 376898891-526f8f4f-0b4d-4017-8c29-94a1cfa230e0.png…]()
+![376898891-526f8f4f-0b4d-4017-8c29-94a1cfa230e0](https://github.com/user-attachments/assets/c3832e4d-f02f-4745-a3b3-7c1651adf697)
 
 ### 30)	find Command
 
